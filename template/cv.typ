@@ -1,5 +1,5 @@
 #import "@preview/chuli-cv:0.1.0": *
-#import "@preview/fontawesome:0.1.0": *
+#import "@preview/fontawesome:0.5.0": *
 
 #show: cv
 

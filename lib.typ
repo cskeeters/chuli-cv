@@ -1,4 +1,4 @@
-#import "@preview/fontawesome:0.1.0": *
+#import "@preview/fontawesome:0.5.0": *
 #import "modules/styles.typ": *
 #import "modules/header.typ": *
 #import "modules/section.typ": *
